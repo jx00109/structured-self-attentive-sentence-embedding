@@ -1,3 +1,4 @@
 ./data/
 ./logs/
-./trained-models/
+./models/
+./preprocessed_data/
